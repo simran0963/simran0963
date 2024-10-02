@@ -1,11 +1,17 @@
 ## Hi there, I am Simran Mehta 👋
 
+<p>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/{simran0963}/contributions?format=svg" width="350" title="Includes public contributions"/>
+    </a>
+</p>
+
 # About me
 - 🔭 I am a Computer Science Engineering student with great problem solving capabilities and good understanding of DSA.
 - 🌱 Currently working on AI/ML.
 - 👯 Looking to collaborate on projects related to Full Stack web Development as well as AI/ML.
 - 🎨 Love sketching.
--->
+
 
 # Technologies I am familiar with
 

@@ -1,4 +1,5 @@
 ## Hi there, I am Simran Mehta 👋
+
 <!--
 <p>
   <img src="https://api.vaunt.dev/v1/github/entities/{{simran0963}}/achievements?format=svg&limit=3" width="350" />
@@ -25,3 +26,6 @@
 # Achievements
 
 <img width="100" alt="eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" src="https://github.com/user-attachments/assets/0033c7c8-fe83-4551-a555-e54c9a51cad0">
+
+[![Vaunt Community](https://api.vaunt.dev/v1/github/entities/{{simran0963}}/badges/community)](https://community.vaunt.dev/board/{{simran0963}})
+

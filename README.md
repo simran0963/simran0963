@@ -25,7 +25,7 @@
 
 # Achievements
 
-<img width="100" alt="eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" src="https://github.com/user-attachments/assets/0033c7c8-fe83-4551-a555-e54c9a51cad0">
+<img width="70" alt="eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" src="https://github.com/user-attachments/assets/0033c7c8-fe83-4551-a555-e54c9a51cad0"><a href="https://community.vaunt.dev/board/simran0963/achievements"><img src="https://api.vaunt.dev/v1/github/entities/simran0963/achievements/6be582b1-6b1f-4ebc-884b-5a44b7721516?format=svg&style=raw" width="300"/></a>
 
 [![Vaunt Community](https://api.vaunt.dev/v1/github/entities/{{simran0963}}/badges/community)](https://community.vaunt.dev/board/{{simran0963}})
 
